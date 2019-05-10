@@ -19,4 +19,11 @@
          <context:exclude-filter type="annotation" expression="org.springframework.stereotype.Controller"/>
     </context:component-scan>
 
+    <!--spring整合mybatis框架-->
+    <!--连接池-->
+
+    <!--工厂-->
+
+    <!---->
+
 </beans>
